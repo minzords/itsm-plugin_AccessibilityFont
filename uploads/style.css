@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DfABold';
+    src: url('/plugins/accessibilityfont/uploads/DfABold.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'DfARegular';
+    src: url('/plugins/accessibilityfont/uploads/DfARegular.ttf') format('truetype');
+  } 
